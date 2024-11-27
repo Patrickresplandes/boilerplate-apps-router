@@ -1,0 +1,5 @@
+!.strorybook
+!.jest
+build
+coverage
+.next
